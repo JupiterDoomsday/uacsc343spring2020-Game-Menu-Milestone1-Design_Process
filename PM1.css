@@ -1,0 +1,33 @@
+body{
+	background-color: #3F3D42;
+	color: #C5EFF7;
+	font-style: sans-serif;
+}
+
+.header,.subheader,a{
+	color:#00BFFF;
+}
+.content{
+	padding-bottom: 
+}
+.header{
+	font-size: 20pt;
+}
+.subheader{
+	font-size: 14pt;
+}
+
+#main{
+	width: 640px;
+	font-size: 12pt;
+	display: inline-block;
+}
+#key{
+	position: sticky;
+	display: inline-block;
+	vertical-align: top;
+}
+img{
+	width: 450px;
+	border: 2px solid #00BFFF;
+}
