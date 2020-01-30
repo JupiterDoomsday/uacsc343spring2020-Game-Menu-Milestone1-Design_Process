@@ -23,9 +23,10 @@ body{
 	display: inline-block;
 }
 #key{
-	position: sticky;
 	display: inline-block;
 	vertical-align: top;
+	position: sticky;
+
 }
 img{
 	width: 450px;
