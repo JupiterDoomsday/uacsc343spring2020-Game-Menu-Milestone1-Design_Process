@@ -3,7 +3,12 @@ body{
 	color: #C5EFF7;
 	font-family: sans-serif;
 }
-
+p{
+	margin-bottom:10pt;
+}
+li{
+	margin-bottom: 5px;
+}
 .header,.subheader,.caption, a{
 	color:#00BFFF;
 	font-weight: bold;
@@ -26,8 +31,12 @@ body{
 	text-indent: 30px;
 	margin-bottom:5px;
 }
-.plan{
+.plan,.planstep{
 	margin-top:5px;
+	margin-bottom:0px;
+}
+.plan{
+	font-family: monospace;
 }
 .atomic-us{
 	color: orange;
@@ -51,9 +60,6 @@ body{
 }
 img{
 	width: 450px;
-}
-p{
-	margin-bottom:10pt;
 }
 figure{
 	width: max-content;
