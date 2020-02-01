@@ -9,31 +9,51 @@ body{
 	font-weight: bold;
 }
 .content,.observation{
-	padding-bottom: 35pt;
+	margin-bottom: 35pt;
 }
 .header{
 	font-size: 20pt;
+	margin-bottom:10pt;
+}
+.sub-cont{
+	margin-bottom:14pt;
 }
 .subheader{
 	font-size: 14pt;
+	margin-bottom:7pt;
 }
-.vid{
-	display: block;
-	margin: 0 auto;
+.list_item{
+	text-indent: 30px;
+	margin-bottom:5px;
+}
+.plan{
+	margin-top:5px;
+}
+.atomic-us{
+	color: orange;
+	font-style: italic;
+}
+.atomic-sys{
+	color:limegreen;
+	font-style: italic;
 }
 #main{
 	width: 640px;
 	font-size: 12pt;
 	display: inline-block;
+	margin-left: 30px;
+	margin-right: 30px;
 }
 #key{
 	display: inline-block;
 	vertical-align: top;
 	position: fixed;
-	margin-left: 30px;
 }
 img{
 	width: 450px;
+}
+p{
+	margin-bottom:10pt;
 }
 figure{
 	width: max-content;
