@@ -46,6 +46,9 @@ li{
 	color:limegreen;
 	font-style: italic;
 }
+.key_obj{
+	text-indent: 10px;	
+}
 #main{
 	width: 640px;
 	font-size: 12pt;
